@@ -1,4 +1,5 @@
-### Hi there 👋
+### 👋¡Hola!
+## Mi nombre es David Alonso Ruiz y soy desarrollador web frontend
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darito97&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
