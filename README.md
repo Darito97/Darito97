@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://i.ibb.co/6DRpL7w/My-project-ccexpress.jpg" alt="My-project-ccexpress" border="0" width="100" height="100">
+</p>
 <h1>¡Hola! 👋, Mi nombre es David Alonso Ruiz</h1>
 <h3>Y soy un desarrollador web frontend apasionado por crear soluciones de software 👨‍💻</h3>
 
