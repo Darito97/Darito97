@@ -4,7 +4,7 @@
 <h1>¡Hola! 👋, Mi nombre es David Alonso Ruiz</h1>
 <h3>Y soy un desarrollador web frontend apasionado por crear soluciones de software 👨‍💻</h3>
 
-- 🔭 Actualmente estoy trabajando en [Mi pagina de portafolio](https://darito97.github.io/portafolio3/)
+- 🔭 Actualmente estoy trabajando en mi presencia en la web.
 
 - 🌱 Estoy aprendiendo **sass, nextjs, mongodb, node y tailwind**
 
