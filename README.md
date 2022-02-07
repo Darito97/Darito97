@@ -10,8 +10,6 @@
 
 - 📝 Escribo articulos en [dev](https://dev.to/darito)
 
-- 💬 Puedes preguntarme **React, Javascript, HTML y CSS**
-
 📫 Puedes contactarme en **davidalonso.contact@gmail.com**
 
 <h3>Mis habilidades</h3>
