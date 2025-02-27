@@ -4,7 +4,7 @@
 <h1>¡Hola! 👋, Mi nombre es David Alonso Ruiz</h1>
 <h3>Y soy un desarrollador web frontend apasionado por crear soluciones de software 👨‍💻</h3>
 
-- 🔭 Actualmente estoy trabajando en Abarrotera de Pátzcuaro.
+- 🔭 Actualmente estoy trabajando como freelance en Easy Shop.
 
 - 🌱 Estoy aprendiendo **Astro, Dart, Flutter**
 
